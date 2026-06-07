@@ -19,4 +19,6 @@ This repository contains coursework from **CS188: Introduction to Artificial Int
 - **Projects**: All projects are located under the `Projects/` directory, each containing code and documentation on specific AI techniques, such as search algorithms, probabilistic models, and machine learning.
 
 
-Explore the coursework to see practical implementations of AI techniques, including search algorithms, reinforcement learning, and probabilistic reasoning applied to real-world problems.
+## Academic Integrity Note
+
+This repository contains my own coursework submissions and related learning artifacts, shared for portfolio review only; do not copy or submit this material for active or future coursework, and follow your institution's academic integrity policies.
